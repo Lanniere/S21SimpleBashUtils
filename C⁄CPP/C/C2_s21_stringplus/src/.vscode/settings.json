@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "s21_tests.h": "c",
+        "locale.h": "c"
+    }
+}
