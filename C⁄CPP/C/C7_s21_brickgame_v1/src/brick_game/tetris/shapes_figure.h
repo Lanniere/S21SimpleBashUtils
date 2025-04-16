@@ -1,0 +1,8 @@
+#ifndef SHAPES_FIGURE_H
+#define SHAPES_FIGURE_H
+
+#define TETRAMINO_FIGURES 7
+
+extern const int TETRAMINO_SHAPES[TETRAMINO_FIGURES][4][4];
+
+#endif // SHAPES_FIGURE_H
